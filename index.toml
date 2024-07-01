@@ -1,0 +1,68 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".github/semantic.yml"
+hash = "220f1ba1ceb11a4e0fcf2690e7c9938cffdd4c0ad8ad59b843192627df1f2002"
+
+[[files]]
+file = "CHANGELOG.md"
+hash = "f411c2bca5b57d25568495890babe94f254aaa3b134603ec6ef379d0b4b6dc5b"
+
+[[files]]
+file = "LICENSE"
+hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
+
+[[files]]
+file = "mods/apec.pw.toml"
+hash = "ef52a444013b9b630d623c140caa7f4253987a112acaee67a481ab2b109d76fe"
+metafile = true
+
+[[files]]
+file = "mods/chattriggers.pw.toml"
+hash = "2837287f1eef8feada6dbaf572480aa8927ade2be8fcf61bb081085c54ef8304"
+metafile = true
+
+[[files]]
+file = "mods/cowlection.pw.toml"
+hash = "f41a8baa98abf51353986913e3b03e0f84a07aa45763d107ede016db18c93b71"
+metafile = true
+
+[[files]]
+file = "mods/dankers-skyblock-mod.pw.toml"
+hash = "a475d3dbfa3c2fa152c7f0254eb3f7bc7646cd625c8ed24f23b5a3eb4aa36808"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-guide.pw.toml"
+hash = "220d9fbdac9d3f294a0f48b949745a18d5091bc6cc4e8ba7cf909ee1e7268b22"
+metafile = true
+
+[[files]]
+file = "mods/notenoughupdates.pw.toml"
+hash = "bc596d0bd49317aba96993c1dd8b5ed359bb68771cdfe08692c429d92e782c9a"
+metafile = true
+
+[[files]]
+file = "mods/patcher.pw.toml"
+hash = "548dc0e40148d601b134885e61dfaa5eb8a846661c81ab88ecd3c51f5da8f658"
+metafile = true
+
+[[files]]
+file = "mods/scrollabletooltips.pw.toml"
+hash = "d2ef9ae7d46c45416d924f85766d0fd2a66dff0b351b67a946e4f92999cec0d9"
+metafile = true
+
+[[files]]
+file = "mods/skyblockaddons.pw.toml"
+hash = "48c91f519e7bfe98a5ad181fd7a2a1f2ac3fe9e4e0f3142c899d6a3c18574906"
+metafile = true
+
+[[files]]
+file = "mods/skytils.pw.toml"
+hash = "428d7ee0d160505081c8ed6ada7aedab1426d493a34f49fda663522630a72fdd"
+metafile = true
+
+[[files]]
+file = "mods/soopyv2forge.pw.toml"
+hash = "db2411918e6185b1739acb97c5556c570de9d430a9f33177a7c01ab7babd6128"
+metafile = true
